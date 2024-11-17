@@ -12,7 +12,7 @@ public class codefile{
                 if(j == 0){
                 	System.out.println(input.get(i).get(j));
                     ans[i][j] = ans[i][j] + input.get(i).get(j);
-                    System.out.println("****" + ans[i][j]);
+                    System.out.println("*******" + ans[i][j]);
                 }
                 else{
                 	System.out.println(input.get(i).get(j));
